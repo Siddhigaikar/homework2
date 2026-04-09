@@ -1,0 +1,23 @@
+h1 {
+    color: darkblue;
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+p {
+    color: darkgreen;
+    font-size: 18px;
+    font-family: "Times New Roman", serif;
+}
+
+
+ul {
+    color: rgb(145, 25, 244);
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    background-color: lightgray;
+    padding: 15px;
+    width: 200px;
+}
